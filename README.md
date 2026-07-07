@@ -65,8 +65,6 @@ SQL se divide en varios sublenguajes según el tipo de operación que realizan:
 
 Este repositorio recorre estos sublenguajes de forma progresiva, comenzando por la definición de estructuras con DDL y avanzando hacia consultas más complejas con DQL.
 
-también se toca 
-
 ### Manejador de trabajo: Oracle Database
 
 Para los ejercicios y ejemplos de este repositorio, se utiliza **Oracle Database** como manejador principal. Oracle es uno de los SMBD más robustos y utilizados en entornos empresariales, lo que lo convierte en una herramienta de gran valor profesional. 
@@ -149,3 +147,7 @@ Oracle expone una rica variedad de objetos y propiedades con los que se puede co
 - **Ciclo de Control de Acceso**
 - **Control de Roles**
 - **Auditoría del Sistema**
+
+## Creditos
+
+Este repositorio es orgullosamente diseñado, desarrollado y mantenido por **badjavii, junior dev**.
